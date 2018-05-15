@@ -1,0 +1,17 @@
+picture_path: san-francisco
+preview:
+  filename: IMG_0329
+  original: IMG_0329.JPG
+  thumbnail: IMG_0329.JPG
+pictures:
+- filename: IMG_0340
+  original: IMG_0340.jpg
+  sizes:
+  - IMG_0340.jpg
+  thumbnail: IMG_0340.jpg
+- filename: IMG_0343
+  original: IMG_0343.jpg
+  sizes:
+  - IMG_0343.jpg
+  thumbnail: IMG_0343.jpg
+
