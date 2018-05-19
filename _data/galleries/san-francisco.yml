@@ -7,14 +7,18 @@ pictures:
 - filename: IMG_0329
   original: IMG_0329.JPG
   thumbnail: IMG_0329.JPG
+  title: where
+  caption: haha
 - filename: IMG_0340
   original: IMG_0340.jpg
-  sizes:
-  - IMG_0340.jpg
   thumbnail: IMG_0340.jpg
+  title: where
+  caption: haha
 - filename: IMG_0343
   original: IMG_0343.jpg
-  sizes:
-  - IMG_0343.jpg
   thumbnail: IMG_0343.jpg
-
+  title: where
+  caption: haha
+- filename: Attack.on.Titan.full.2188562
+  original: Attack.on.Titan.full.2188562.jpg
+  thumbnail: Attack.on.Titan.full.2188562.jpg
