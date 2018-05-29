@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   thus the wise say the path to Salvation is hard.
 
 # baseurl: "/about" # the subpath of your site, e.g. /blog
-# url: "//opieters.github.io" # the base hostname & protocol for your site
+# url: "www.caojilin.net" # the base hostname & protocol for your site
 twitter_username: bohemian
 github_username:  caojilin
 

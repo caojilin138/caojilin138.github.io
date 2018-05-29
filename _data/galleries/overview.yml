@@ -1,12 +1,12 @@
 -
- title: A Very Basic Example Gallery
+ title: 
  directory: san-francisco
  preview:
-  filename: IMG_0329
-  original: IMG_0329.JPG
-  thumbnail: IMG_0329.JPG
+  filename: IMG_0834
+  original: IMG_0834.JPG
+  thumbnail: IMG_0834.JPG
 -
- title: A More Complicated Example Gallery
+ title:  
  directory: ghent-light-festival
  picture_path: ghent-light-festival/part1
  preview:

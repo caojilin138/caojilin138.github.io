@@ -1,14 +1,17 @@
 picture_path: san-francisco
 preview:
-  filename: IMG_0329
-  original: IMG_0329.JPG
-  thumbnail: IMG_0329.JPG
+  filename: IMG_0834
+  original: IMG_0834.JPG
+  thumbnail: IMG_0834.JPG
 pictures:
 - filename: IMG_0329
   original: IMG_0329.JPG
   thumbnail: IMG_0329.JPG
   title: where
   caption: haha
+- filename: IMG_0834
+  original: IMG_0834.JPG
+  thumbnail: IMG_0834.JPG
 - filename: IMG_0340
   original: IMG_0340.jpg
   thumbnail: IMG_0340.jpg
