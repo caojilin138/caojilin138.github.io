@@ -1,9 +1,7 @@
 ---
-
 layout: page
-title: "Blog"
-permalink: /blog
-
+title: Blog
+permalink: /blog/
 ---
   {% assign total = 0 %}
   {% for post in site.posts %}
