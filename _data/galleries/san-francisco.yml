@@ -9,9 +9,9 @@ pictures:
   thumbnail: IMG_0329.JPG
   title: where
   caption: haha
-- filename: IMG_0834
-  original: IMG_0834.JPG
-  thumbnail: IMG_0834.JPG
+- filename: IMG_0834_copy.jpg
+  original: IMG_0834_copy.jpg
+  thumbnail: IMG_0834_copy.jpg
 - filename: IMG_0340
   original: IMG_0340.jpg
   thumbnail: IMG_0340.jpg
@@ -22,6 +22,6 @@ pictures:
   thumbnail: IMG_0343.jpg
   title: where
   caption: haha
-- filename: Attack.on.Titan.full.2188562
-  original: Attack.on.Titan.full.2188562.jpg
-  thumbnail: Attack.on.Titan.full.2188562.jpg
+# - filename: Attack.on.Titan.full.2188562
+#   original: Attack.on.Titan.full.2188562.jpg
+#   thumbnail: Attack.on.Titan.full.2188562.jpg
