@@ -1,14 +1,15 @@
 -
- title: 
+ title: Album1
  directory: san-francisco
+ picture_path: san-francisco
  preview:
   filename: IMG_0834
   original: IMG_0834.JPG
   thumbnail: IMG_0834.JPG
 -
- title:  
- directory: ghent-light-festival
- picture_path: ghent-light-festival/part1
+ title: Album2
+ directory: college
+ picture_path: college/part1
  preview:
   filename: IMG_0539
   original: IMG_0539.JPG
